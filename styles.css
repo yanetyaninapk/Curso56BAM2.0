@@ -54,8 +54,9 @@ nav ul li a.activo{
     background-color: rgb(74, 73, 72);
 }
 .holder{
-    width: 1200px; 
-    margin: 0 auto;
+    width: 800px; 
+    margin-left: auto;
+    margin-right: auto ;
 }
 
 body{
