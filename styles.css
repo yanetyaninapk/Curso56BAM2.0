@@ -56,3 +56,6 @@ nav ul li a.activo{
     width: 960px; 
     margin: 0 auto;
 }
+a:active {
+    background:brown;
+}
